@@ -13,7 +13,8 @@
 
 	CarLot.getInventory = function() {
 		CarLot.Inventory.loadInventory(showcars);
-		
+		document.getElementById("loader").style.visibility = "hidden";
+			
 			
 			
 	}

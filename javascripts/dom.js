@@ -1,8 +1,7 @@
 let body = document.getElementById("body");
 let card = document.getElementById("card");
 
-	
-CarLot.getInventory();
+
 
 
 function todom(a) {
